@@ -1,0 +1,40 @@
+body
+{
+    font-family: 'Patrick Hand', cursive;
+    background:rgb(100, 100, 179);
+}
+
+.headerdiv
+{
+    background: white;
+    color:red;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.headerdiv h2
+{
+    font-weight:bolder;
+    font-size: 30px;
+}
+
+.main_div button
+{
+    width: 200px;
+    letter-spacing: 3px;
+    font-size: 15px;
+    font-weight:bolder;
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    color:black;
+    bottom:0;
+    width:100%;
+    font-size:20px;
+    background-color: rgb(59, 160, 61);
+    text-align: center;
+    text-shadow: 5px 5px 5px white;
+    line-height: 3;
+}
